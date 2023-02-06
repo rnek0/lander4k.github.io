@@ -92,7 +92,7 @@ Interceptando la petición podemos observar que para elegir el formato de la ima
 
 <img src="burp.png">
 
-Nos podmemos imaginar que la web usa un binario para la conversión del formato de la imagen, si este es el caso, podemos concatenarle un comando.
+Nos podemos imaginar que la web usa un binario para la conversión del formato de la imagen, si este es el caso, podemos concatenarle un comando.
 
 Así que crearemos una reverse shell con nc y mkfifo en [Reverse Shells](https://revshells.com), recordad que esta ha de ser url encodeada.
 
