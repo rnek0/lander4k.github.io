@@ -7,8 +7,6 @@ categories: [HackTheBox, Writeup, Easy]
 tags: [HackTheBox, Writeup, Linux, Easy, RCE, Path Hijacking]
 image:
   path: /photobomb.png
-  width: 800
-  height: 500
   alt: Photobomb
 ---
 
