@@ -1,14 +1,12 @@
 ---
 title: Writeup Photobomb
 author: L4nder
-date: 2023-02-06
+date: 2023-02-12
 img_path: /assets/img/HTB/photobomb
 categories: [HackTheBox, Writeup, Easy]
 tags: [HackTheBox, Writeup, Linux, Easy, RCE, Path Hijacking]
 image:
-  path: /photobomb.png
-  width: 800
-  height: 500
+  path: photobomb.png
   alt: Photobomb
 ---
 
