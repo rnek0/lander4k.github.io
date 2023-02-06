@@ -2,7 +2,7 @@
 title: Photobomb Writeup
 author: L4nder
 date: 2023-02-06
-img_path: /assets/img/HTB/Photobomb
+img_path: /assets/img/HTB/photobomb
 categories: [Writeup, HTB]
 tags: [HackTheBox, Writeup, RCE, Easy, Path Hijacking, Sudo]
 image:
