@@ -1,6 +1,6 @@
 ---
 title: Writeup Photobomb
-author: L4nder
+author: 
 date: 2023-02-06
 img_path: /assets/img/HTB/photobomb
 categories: [HackTheBox, Writeup, Easy]
