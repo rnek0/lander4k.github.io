@@ -1,7 +1,7 @@
 ---
 title: Writeup Photobomb
 author: L4nder
-date: 2023-02-05
+date: 2023-02-06
 img_path: /assets/img/HTB/photobomb
 categories: [HackTheBox, Writeup, Easy]
 tags: [HackTheBox, Writeup, Linux, Easy, RCE, Path Hijacking]
@@ -10,9 +10,9 @@ image:
   alt: Photobomb
 ---
 
-Bueeeno, el dia de hoy nos haremos una maquina de dificultad **FACIL**!, de hecho, fue mi primera máquina activa que hice xD, le tengo nostalgia a la máquina.
+Bueno, el dia de hoy nos haremos una maquina de dificultad **FACIL**!, de hecho, fue mi primera máquina activa que hice, le tengo nostalgia a la máquina.
 
-Bueno, en esta máquina tocaremos los siguientes puntos:
+En esta máquina tocaremos los siguientes puntos:
 - Virtual Hosting
 - Code Injection (RCE)
 - Y un Path Hijacking para la escalada de privilegios!
