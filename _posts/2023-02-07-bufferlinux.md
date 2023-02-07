@@ -92,7 +92,7 @@ Reading symbols from ./binary...
 gef➤  
 ```
 
-Para buscar el offset del binario crearemos un patrón especial de 200 bytes
+Para buscar el offset del binario crearemos un patrón especial de 300 bytes
 
 ```plaintext
 gef➤  pattern create 300
