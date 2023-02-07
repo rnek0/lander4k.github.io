@@ -1,7 +1,7 @@
 ---
 title: Writeup Photobomb
 author: 
-date: 2023-02-06
+date: 2023-02-12
 img_path: /assets/img/HTB/photobomb
 categories: [HackTheBox, Writeup, Easy]
 tags: [HackTheBox]
