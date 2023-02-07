@@ -4,7 +4,7 @@ author: L4nder
 date: 2023-02-06
 img_path: /assets/img/HTB/photobomb
 categories: [HackTheBox, Writeup, Easy]
-tags: [HackTheBox, Writeup, Linux, Easy, RCE, Path Hijacking]
+tags: [HackTheBox]
 image:
   path: photobomb.png
   alt: Photobomb
