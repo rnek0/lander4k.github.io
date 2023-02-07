@@ -44,7 +44,7 @@ Antes de la explotación, deshabilitaremos el ASLR en nuestra máquina, el archi
 Tendremos que compilar el archivo en C con ayuda de `gcc` con los siguientes parámetros para deshabilitar las protecciones del binario que vienen por defecto
 
 ```plaintext
-vulnerable.c          # El nombre del archivo en C
+vuln.c                # El nombre del archivo en C
 -m32                  # Indica que se compile para sistemas de 32 bits (x86)
 -z execstack          # Nos permite que podamos ejecutar instrucciones en la pila
 -fno-stack-protector  # Deshabilita la protección en la pila
