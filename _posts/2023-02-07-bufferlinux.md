@@ -1,5 +1,5 @@
 ---
-title: BufferOverflow Linux (Stack Based)
+title: Buffer Overflow Linux (Stack Based)
 author: 
 date: 2023-02-06
 img_path: /assets/img/Otros/bof
